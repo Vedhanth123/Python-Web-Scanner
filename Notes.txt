@@ -1,0 +1,1 @@
+1) In order to create a Web Scanner we need to request the server for the data.
